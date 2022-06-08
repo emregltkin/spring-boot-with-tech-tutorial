@@ -12,7 +12,7 @@
 	<groupId>com.sb.gltkn</groupId>
 	<artifactId>sb-01-hello-world</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hello-world</name>
+	<name>sb-01-hello-world</name>
 	<description>Hello World project for Spring Boot</description>
 
 	<properties>
