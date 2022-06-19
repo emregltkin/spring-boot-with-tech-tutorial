@@ -20,3 +20,16 @@ ssec: Spring security
 smvc: Spring mvc
 	=>	smvc-01-hello-world
 ```
+
+
+**Projeler ve Modülleri**
+```plaintext
+* sb-01-hello-world
+* sb-02-spring-module-examples
+    - sb-01-mongo-rest-api
+    - sb-02-spring-elasticsearch
+    - sb-03-spring-datajpa-postgresql
+```
+```sh
+Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.
+```
