@@ -29,6 +29,7 @@ smvc: Spring mvc
     - sb-01-mongo-rest-api
     - sb-02-spring-elasticsearch
     - sb-03-spring-datajpa-postgresql
+    - sb-04-spring-api-doc
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.

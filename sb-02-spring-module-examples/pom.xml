@@ -7,7 +7,8 @@
 		<module>sb-01-mongo-rest-api</module>
         <module>sb-02-spring-elasticsearch</module>
         <module>sb-03-spring-datajpa-postgresql</module>
-    </modules>
+		<module>sb-04-spring-api-doc</module>
+	</modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
