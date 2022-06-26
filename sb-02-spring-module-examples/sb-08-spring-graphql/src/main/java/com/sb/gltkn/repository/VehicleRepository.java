@@ -1,0 +1,12 @@
+package com.sb.gltkn.repository;
+
+import com.sb.gltkn.entity.Vehicle;
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import java.util.List;
+
+@Repository
+public interface VehicleRepository extends JpaRepository<Vehicle, Long> {
+    List<Vehicle> getByTypeLike(String type);
+}
