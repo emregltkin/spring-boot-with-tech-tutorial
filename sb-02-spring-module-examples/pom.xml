@@ -10,6 +10,7 @@
 		<module>sb-04-spring-api-doc</module>
         <module>sb-05-spring-rabbitmq</module>
         <module>sb-06-spring-dockerization</module>
+        <module>sb-07-spring-aop</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>

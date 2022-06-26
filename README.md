@@ -32,6 +32,7 @@ smvc: Spring mvc
     - sb-04-spring-api-doc
     - sb-05-spring-rabbitmq
     - sb-06-spring-dockerization
+    - sb-07-spring-aop
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.
