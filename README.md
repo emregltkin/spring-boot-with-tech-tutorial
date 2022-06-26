@@ -31,6 +31,7 @@ smvc: Spring mvc
     - sb-03-spring-datajpa-postgresql
     - sb-04-spring-api-doc
     - sb-05-spring-rabbitmq
+    - sb-06-spring-dockerization
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.

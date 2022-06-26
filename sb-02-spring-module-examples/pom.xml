@@ -9,6 +9,7 @@
         <module>sb-03-spring-datajpa-postgresql</module>
 		<module>sb-04-spring-api-doc</module>
         <module>sb-05-spring-rabbitmq</module>
+        <module>sb-06-spring-dockerization</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
