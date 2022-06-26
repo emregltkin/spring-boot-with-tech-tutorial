@@ -38,3 +38,7 @@ smvc: Spring mvc
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.
 ```
+
+**References**
+
+https://github.com/HaydiKodlayalim/spring-examples
