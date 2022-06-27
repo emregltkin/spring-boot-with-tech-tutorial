@@ -12,6 +12,7 @@
         <module>sb-06-spring-dockerization</module>
         <module>sb-07-spring-aop</module>
         <module>sb-08-spring-graphql</module>
+        <module>sb-09-spring-redis-cache</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>

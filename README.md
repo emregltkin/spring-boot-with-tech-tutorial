@@ -34,6 +34,7 @@ smvc: Spring mvc
     - sb-06-spring-dockerization
     - sb-07-spring-aop
     - sb-08-spring-graphql
+    - sb-09-spring-redis-cache
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.
