@@ -13,6 +13,7 @@
         <module>sb-07-spring-aop</module>
         <module>sb-08-spring-graphql</module>
         <module>sb-09-spring-redis-cache</module>
+        <module>sb-10-spring-websocket</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>

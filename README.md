@@ -35,6 +35,7 @@ smvc: Spring mvc
     - sb-07-spring-aop
     - sb-08-spring-graphql
     - sb-09-spring-redis-cache
+    - sb-10-spring-websocket
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.
