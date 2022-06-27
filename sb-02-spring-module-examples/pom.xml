@@ -14,6 +14,7 @@
         <module>sb-08-spring-graphql</module>
         <module>sb-09-spring-redis-cache</module>
         <module>sb-10-spring-websocket</module>
+        <module>sb-11-spring-pagination</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
