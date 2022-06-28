@@ -15,6 +15,7 @@
         <module>sb-09-spring-redis-cache</module>
         <module>sb-10-spring-websocket</module>
         <module>sb-11-spring-pagination</module>
+        <module>sb-12-spring-events</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>

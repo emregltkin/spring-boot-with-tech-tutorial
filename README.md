@@ -37,6 +37,7 @@ smvc: Spring mvc
     - sb-09-spring-redis-cache
     - sb-10-spring-websocket
     - sb-11-spring-pagination
+    - sb-12-spring-events
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.
