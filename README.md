@@ -38,6 +38,7 @@ smvc: Spring mvc
     - sb-10-spring-websocket
     - sb-11-spring-pagination
     - sb-12-spring-events
+    - sb-13-spring-gridfs-fileupload
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.
