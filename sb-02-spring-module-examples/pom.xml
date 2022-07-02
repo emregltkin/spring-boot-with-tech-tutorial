@@ -17,6 +17,7 @@
         <module>sb-11-spring-pagination</module>
         <module>sb-12-spring-events</module>
         <module>sb-13-spring-gridfs-fileupload</module>
+        <module>sb-14-spring-kafka</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
