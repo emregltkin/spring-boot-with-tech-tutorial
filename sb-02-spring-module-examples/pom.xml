@@ -19,6 +19,8 @@
         <module>sb-13-spring-gridfs-fileupload</module>
         <module>sb-14-spring-kafka</module>
         <module>sb-15-spring-flyway</module>
+        <module>sb-16-spring-rest-versioning</module>
+        <module>sb-17-spring-exception-handling</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
