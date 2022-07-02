@@ -42,6 +42,7 @@ smvc: Spring mvc
     - sb-14-spring-kafka
     - sb-15-spring-flyway
     - sb-16-spring-rest-versioning
+    - sb-17-spring-exception-handling
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.
