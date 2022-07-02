@@ -40,6 +40,7 @@ smvc: Spring mvc
     - sb-12-spring-events
     - sb-13-spring-gridfs-fileupload
     - sb-14-spring-kafka
+    - sb-15-spring-flyway
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.

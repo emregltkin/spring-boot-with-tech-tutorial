@@ -18,6 +18,7 @@
         <module>sb-12-spring-events</module>
         <module>sb-13-spring-gridfs-fileupload</module>
         <module>sb-14-spring-kafka</module>
+        <module>sb-15-spring-flyway</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
