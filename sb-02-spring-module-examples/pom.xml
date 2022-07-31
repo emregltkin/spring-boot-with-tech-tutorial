@@ -21,6 +21,7 @@
         <module>sb-15-spring-flyway</module>
         <module>sb-16-spring-rest-versioning</module>
         <module>sb-17-spring-exception-handling</module>
+        <module>sb-18-spring-hazelcast-cache</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
