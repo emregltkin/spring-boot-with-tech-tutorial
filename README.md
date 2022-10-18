@@ -43,6 +43,8 @@ smvc: Spring mvc
     - sb-15-spring-flyway
     - sb-16-spring-rest-versioning
     - sb-17-spring-exception-handling
+    - sb-18-spring-hazelcast-cache
+    - sb-19-spring-webflux-mongo
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.

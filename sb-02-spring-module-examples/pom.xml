@@ -22,6 +22,7 @@
         <module>sb-16-spring-rest-versioning</module>
         <module>sb-17-spring-exception-handling</module>
         <module>sb-18-spring-hazelcast-cache</module>
+        <module>sb-19-spring-webflux-mongo</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
