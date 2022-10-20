@@ -45,6 +45,7 @@ smvc: Spring mvc
     - sb-17-spring-exception-handling
     - sb-18-spring-hazelcast-cache
     - sb-19-spring-webflux-mongo
+    - sb-20-spring-logging
 ```
 ```sh
 Projeler ve modüller içerisinde bulunan pdf dokümanını klavuz olarak kullanabilirsiniz.

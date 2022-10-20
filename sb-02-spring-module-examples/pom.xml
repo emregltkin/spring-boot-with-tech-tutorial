@@ -23,6 +23,7 @@
         <module>sb-17-spring-exception-handling</module>
         <module>sb-18-spring-hazelcast-cache</module>
         <module>sb-19-spring-webflux-mongo</module>
+        <module>sb-20-spring-logging</module>
     </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
